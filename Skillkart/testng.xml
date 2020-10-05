@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="ChromeTest">
+  	<classes>
+     <!--  <class name="com.etrading.skillkart.scripts.TC001"/> -->
+      <class name="com.etrading.skillkart.scripts.TC002"/>
+     <!--  <class name="com.etrading.skillkart.scripts.TC003"/>
+      <class name="com.etrading.skillkart.scripts.TC004"/>
+      <class name="com.etrading.skillkart.scripts.TC005"/>
+      <class name="com.etrading.skillkart.scripts.TC006"/>
+      <class name="com.etrading.skillkart.scripts.TC007"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
