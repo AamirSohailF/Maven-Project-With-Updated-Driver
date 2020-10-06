@@ -3,7 +3,7 @@ import org.testng.annotations.Test;
 public class TC008 extends BaseTest
 {
 	@Test(description="for github")
-	public void dummyTestCase()
+	public void TestCase()
 	{
 		
 	}
